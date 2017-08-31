@@ -1,4 +1,11 @@
 # PHP-BCN-IPN
 
 
-<b> test</b>
+<strong> Requirements </strong>
+<ul>
+  <li> MySQL Database </li>
+  <li> MySQLi Extension </li>
+  <li> Bytecoin RPC Server/Wallet </li>
+</ul>
+
+
