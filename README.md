@@ -14,7 +14,7 @@ Provides a way for PHP developers to send commands to a Bytecoin wallet RPC serv
 
 
 <strong> Release Updates </strong>
-v0.1 - First Relase (Working with database and RPC Server)
+v0.1 - First Release (Working with database and RPC Server)
 
 
 
