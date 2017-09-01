@@ -524,7 +524,6 @@ class PHP_Bytecoin
      * Second character is always between 0-9 or A or B
      * Always 95 characters
      *
-     * @author Jacob Briggs <jebriggsy@gmail.com>
      * @param string $address The Bytecoin wallet address to validate
      * @return bool True if a valid address, false if not
      */
