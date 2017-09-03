@@ -1,13 +1,4 @@
 <?php
-/**
- * PHP-BCN IPN
- *
- * Provides a way for PHP developers to send
- * commands to a Bytecoin wallet RPC server.
- *
- *
- */
-
 
 
 /**
